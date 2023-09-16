@@ -6,6 +6,6 @@
 4. Creating the layout using flexbox instead of float.
 5. Implementing an attractive application interface.
 6. Ensuring a responsive layout.
-7. Incorporating JavaScript for DOM manipulation. Here are some examples of JavaScript implementations.
+7. Incorporating JavaScript for DOM manipulation.
 
 For the design inspiration of the website, I referred to [Colorlib](https://preview.colorlib.com/#expo) but I made modifications to align it with the submission criteria.
